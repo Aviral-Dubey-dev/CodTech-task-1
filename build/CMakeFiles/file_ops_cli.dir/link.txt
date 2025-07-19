@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/file_ops_cli.dir/link.d CMakeFiles/file_ops_cli.dir/src/main.c.o -o file_ops_cli  libfile_ops.a

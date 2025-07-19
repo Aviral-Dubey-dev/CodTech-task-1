@@ -1,0 +1,4 @@
+/home/aviral/Projects/codtech/task1/build/CMakeFiles/file_ops.dir
+/home/aviral/Projects/codtech/task1/build/CMakeFiles/file_ops_cli.dir
+/home/aviral/Projects/codtech/task1/build/CMakeFiles/edit_cache.dir
+/home/aviral/Projects/codtech/task1/build/CMakeFiles/rebuild_cache.dir

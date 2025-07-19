@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfile_ops.a CMakeFiles/file_ops.dir/src/createFile.c.o CMakeFiles/file_ops.dir/src/writeFile.c.o CMakeFiles/file_ops.dir/src/appendFile.c.o CMakeFiles/file_ops.dir/src/readFile.c.o
+/usr/bin/ranlib libfile_ops.a
